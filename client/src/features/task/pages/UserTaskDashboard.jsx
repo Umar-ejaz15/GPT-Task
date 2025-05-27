@@ -8,7 +8,7 @@ const UserTaskDashboard = () => {
       <h2 className="text-3xl font-bold mb-8 text-zinc-800 dark:text-white">
         📋 Your Tasks
       </h2>
-      <div className="grid gap-6 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
+      <div className="">
       <ShowUserTasks/>
       </div>
     </div>
